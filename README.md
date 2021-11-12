@@ -12,4 +12,6 @@ After that it will ask you for a prefix,
 
 you can choose it yourself, you can choose like $ or ! it dosen't really matter what you choose.
 
-After that
+After that it's going to load into the main menu
+
+![Spectral Nuker  11_12_2021 9_45_18 PM](https://user-images.githubusercontent.com/93740943/141532252-f16ca017-c406-4e6f-9734-966130adf6b5.png)
