@@ -1,3 +1,5 @@
+# Invite Bot
+
 # How to Use?
 If you first open the python file, it will ask you for a bot token, the bot token is basically the login password for the bot, which is going to send all the commands.
 
