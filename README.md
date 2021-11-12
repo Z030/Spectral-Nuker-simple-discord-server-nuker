@@ -1,4 +1,11 @@
 # Invite Bot
+To nuke a server, you need to invite a bot to the server you want to nuke, it needs to have admin permissions.
+
+1.Go to the discord developer portal(https://discord.com/developers/applications)
+
+2.Create a new application
+
+![Editing Spectral-Nuker-simple-discord-server-nuker_README md at main · Z030_Spectral-Nuker-simple-discord-server-nuker - Google Chrome 11_12_2021 9_56_03 PM (2)](https://user-images.githubusercontent.com/93740943/141533470-b1124926-4bf6-4a9f-ab1d-f68015daaf9f.png)
 
 # How to Use?
 If you first open the python file, it will ask you for a bot token, the bot token is basically the login password for the bot, which is going to send all the commands.
