@@ -10,4 +10,6 @@ After that it will ask you for a prefix,
 ![Spectral Nuker  11_12_2021 9_02_25 PM](https://user-images.githubusercontent.com/93740943/141527789-3f249726-c2db-4e53-8686-0960f1e4addc.png)
 
 
-you can choose it yourself, you can you like $ or ! it dosen't really matter what you choose,
+you can choose it yourself, you can choose like $ or ! it dosen't really matter what you choose.
+
+After that
