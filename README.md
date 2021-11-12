@@ -7,6 +7,11 @@ To nuke a server, you need to invite a bot to the server you want to nuke, it ne
 
 ![Editing Spectral-Nuker-simple-discord-server-nuker_README md at main · Z030_Spectral-Nuker-simple-discord-server-nuker - Google Chrome 11_12_2021 9_56_03 PM (2)](https://user-images.githubusercontent.com/93740943/141533470-b1124926-4bf6-4a9f-ab1d-f68015daaf9f.png)
 
+3.Give the application any name
+
+![Editing Spectral-Nuker-simple-discord-server-nuker_README md at main · Z030_Spectral-Nuker-simple-discord-server-nuker - Google Chrome 11_12_2021 9_57_32 PM (4)](https://user-images.githubusercontent.com/93740943/141533646-66af3423-73b7-49e6-b233-6fd39f922ce4.png)
+
+
 # How to Use?
 If you first open the python file, it will ask you for a bot token, the bot token is basically the login password for the bot, which is going to send all the commands.
 
