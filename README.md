@@ -22,4 +22,4 @@ If you in this menu you're done, now you can start nuking servers.
 ![Editing Spectral-Nuker-simple-discord-server-nuker_README md at main · Z030_Spectral-Nuker-simple-discord-server-nuker - Google Chrome 11_12_2021 9_47_44 PM (3)](https://user-images.githubusercontent.com/93740943/141532604-10e341fc-43d7-4a93-8cbb-a83889949137.png)
 
 To masscreate channels or delete any channel, you need to use the commands create and delete.
-You need to type it in any channel in the server you want to nuke.
+You can to type it in any channel in the server you want to nuke.
